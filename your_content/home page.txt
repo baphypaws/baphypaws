@@ -1,10 +1,3 @@
-<!--
-    Anything in brackets that start with an exclamation mark, like this, is called a comment! It will not affect the HTML
-    of your page. It's just a note from me to you!
-    There's a little extra HTML I've added here to jazz up the front page, but you don't need it! If you just want basic
-    HTML with p tags and h1 tags and such, that will also work just fine.
--->
-
 <h1>Congratulations on your new comic_git site! 🎉🎊🥳 yahooo</h1>
 
 <!-- The front page uses a responsive 2-column layout. This is done by first defining what content is going to be in
@@ -23,7 +16,7 @@
     </div>
 
     <div class="right-column">
-        <p>This is your home page! It's the main landing page for anyone visiting your website, so make sure it looks good!</p>
+        <p>HOMEPAGE</p>
 
         <p>You can change what's on this page by editing the file found at <code>/your_content/home page.txt</code>.
             I've even included comments in that file to help you out, if you're new to HTML.</p>
