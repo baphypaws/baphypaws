@@ -14,5 +14,3 @@
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
-<h2>Need some hints on where to go next?</h2>
-<p>Check out your <a href="comic/001/#comic-page">First Page</a> for some ideas of what you can do with comic_git!</p>
