@@ -94,13 +94,9 @@ code {
 }
 
 #post-title {
-    color: black;  /* Color of the post title */
-    font-size: 3em;  /* Font size of the post title */
-    font-family: 'Roboto Slab', cursive;
 }
 
 #post-date {
-    font-weight: bold;  /* Delete this to unbold the post date */
 }
 
 #storyline, #characters, #tags {
