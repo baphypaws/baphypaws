@@ -37,14 +37,14 @@
             <ul>
             {%- for name, pages in storylines.items() %}
                 {%- if pages %}
-                    {%- if storylines.keys() | list != ["Uncategorized"] %}
+                    {%- if storylines.keys() | list != ["Gallery"] %}
                     <li><a id="{{ name | replace(' ', '-') }}"></a>{{ name }}
                     <ul>
                     {%- endif %}
                     {%- for page in pages %}
                         <li><a href="{{ comic_base_dir }}/comic/{{ page.page_name }}/">{{ page._title }}</a> -- {{ page._post_date }}</li>
                     {%- endfor %}
-                    {%- if storylines.keys() | list != ["Uncategorized"] %}
+                    {%- if storylines.keys() | list != ["Gallery"] %}
                     </ul>
                     {%- endif %}
                 </li>
