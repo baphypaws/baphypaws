@@ -93,12 +93,6 @@ code {
     white-space: pre; /* Prevents code blocks from being word-wrapped */
 }
 
-#post-title {
-}
-
-#post-date {
-}
-
 #storyline, #characters, #tags {
     font-style: italic;  /* Delete this to unitalicize the tags */
 }
