@@ -12,8 +12,8 @@
 
     <div id="blurb">
         <div id="tagged">
+		<div class="grid-container">
             <ul>
- 	 <div class="archive-grid">
             {# For loops let you take a list of a values and do something for each of those values. In this case,
                it runs through a list of all the pages with a particular tag and it generates a link
                for each of those. #}
@@ -25,6 +25,3 @@
     </div>
 {% endblock %}
 
-  <div class="archive-thumbnail">
-                    <div class="archive-thumbnail-page"><img src="{{ base_dir }}/{{ page.thumbnail_path }}"></div>
-                </div> 
