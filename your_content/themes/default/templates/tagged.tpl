@@ -13,14 +13,13 @@
     <div id="blurb">
         <div id="tagged">
 		<div class="grid-container">
-            <ul>
-            {# For loops let you take a list of a values and do something for each of those values. In this case,
-               it runs through a list of all the pages with a particular tag and it generates a link
-               for each of those. #}
+           <a href="{{ comic_base_dir }}/comic/{{ page["page_name"] }}/#comic-page"><img src="{{ base_dir }}/{{ page.thumbnail_path }}"></a>
+          </div>
+	</div>
             {%- for page in tagged_pages %}
-                <li><a href="{{ comic_base_dir }}/comic/{{ page["page_name"] }}/#comic-page"><img src="{{ base_dir }}/{{ page.thumbnail_path }}"></a> </li>
+                <li> </li>
             {%- endfor %}
-            </ul>
+           
         </div>
     </div>
 {% endblock %}
