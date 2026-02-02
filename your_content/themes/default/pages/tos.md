@@ -80,11 +80,8 @@
     {# This is the start of the `content` block. Nothing is here now because other templates are expected to fill it
        in on their own. It will contain everything on a webpage after the links bar and before the
        "Powered by comic_git" footer. #}
+
     {% block content %}
-
-
-
-
 <h1 style="text-align: center;"><span style="font-weight: 400;">🐾 BAPHYPAWS&nbsp; 🐾</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Commissions Info</span></h1>
 <h2 style="text-align: center;"><a href="https://forms.gle/HhJFjtusFZN3pAxW6"><strong>COMMISSIONS </strong></a><strong>CLOSED!&nbsp;</strong></h2>
 <p style="text-align: center;"><span style="font-weight: 400;">Contact : </span><a href="mailto:baphypaws@gmail.com"><span style="font-weight: 400;">baphypaws@gmail.com</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span></a><span style="font-weight: 400;">_______________________________________________________________________</span><span style="font-weight: 400;"><br /><br /></span></p>
