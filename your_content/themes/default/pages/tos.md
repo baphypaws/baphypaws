@@ -1,9 +1,19 @@
-    {% block content %}
+<div>
 <h1 style="text-align: center;"><span style="font-weight: 400;">🐾 BAPHYPAWS&nbsp; 🐾</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Commissions Info</span></h1>
+</div>
+<div>
 <h2 style="text-align: center;"><a href="https://forms.gle/HhJFjtusFZN3pAxW6"><strong>COMMISSIONS </strong></a><strong>CLOSED!&nbsp;</strong></h2>
+</div>
+<div>
 <p style="text-align: center;"><span style="font-weight: 400;">Contact : </span><a href="mailto:baphypaws@gmail.com"><span style="font-weight: 400;">baphypaws@gmail.com</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span></a><span style="font-weight: 400;">_______________________________________________________________________</span><span style="font-weight: 400;"><br /><br /></span></p>
+</div>
+<div>
 <h3 style="text-align: center;"><strong>All commissions are artistic freedom, </strong><strong><br /></strong><strong>and priced $125 per hour. </strong><strong><br /></strong><span style="font-weight: 400;">As a rule of thumb, I recommend one hour per character, </span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">with involved backgrounds being another hour. </span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Comic pages require a minimum of three hours. </span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><a href="https://forms.gle/HhJFjtusFZN3pAxW6"><strong>CLICK HERE for the COMMISSION REQUEST FORM</strong><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span></a><a href="https://www.dropbox.com/scl/fo/bsygao8g39sm53uox5jb7/AGk8MmCDI0HByXbXWXsjrmo?rlkey=idebld8340gpofeausugs6o4t&amp;dl=0"><span style="font-weight: 400;">Examples of Previous Commissions, Organized by Hour</span></a><span style="font-weight: 400;">&nbsp;</span></h3>
+</div>
+<div>
 <p style="text-align: center;">&nbsp;</p>
+</div>
+<div>
 <table style="margin-left: auto; margin-right: auto;" cellpadding="25">
 <tbody>
 <tr>
@@ -46,21 +56,29 @@
 </tr>
 </tbody>
 </table>
+</div>
+<div>
 <p style="text-align: center;">&nbsp;</p>
+</div>
+<div>
 <p style="text-align: center;"><span style="font-weight: 400;">This is an incomplete list, please feel free to reach out and ask! I do not judge.</span></p>
+</div>
+<div>
 <p style="text-align: center;"><br /><br /><br /></p>
-<table cellpadding="25">
+</div>
+<div>
+<table style="width: 745px;" border="5" cellpadding="25">
 <tbody>
 <tr style="text-align: center;">
-<td>
+<td style="width: 332.467px;">
 <h3><span style="font-weight: 400;">ToS</span></h3>
 </td>
-<td>
+<td style="width: 299.533px;">
 <h3><span style="font-weight: 400;">Method</span></h3>
 </td>
 </tr>
 <tr>
-<td style="text-align: center;"><br />
+<td style="text-align: center; width: 332.467px;"><br />
 <p><em><span style="font-weight: 400;">By commissioning me, you acknowledge having read and agree to follow the following Terms of Service.&nbsp;</span></em></p>
 <p><em><span style="font-weight: 400;"><br /></span></em><em><span style="font-weight: 400;">&mdash;------------------------------------</span></em><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Commissioned artwork is for personal use only. </span><strong>Above listed commission prices do NOT include commercial rights. </strong><span style="font-weight: 400;">Any profit-making ventures on the part of the client involving the commissioned artwork is strictly forbidden. At my sole discretion I may sell print or electronic copies of any commission, without prior approval from the client. </span><span style="font-weight: 400;">If the client does NOT want their commission sold as a print or in a digital format, it is the client's responsibilty to inform me.&nbsp;<br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Commissioned artwork may </span><strong>NOT</strong><span style="font-weight: 400;">, under </span><strong>ANY</strong><span style="font-weight: 400;"> circumstances, be used as a source for AI learning, or utilized as an NFT. No exceptions.&nbsp;</span></p>
 <p><strong><br />Editing, manipulating, reworking or any alterations of my work is strictly forbidden. </strong><span style="font-weight: 400;">For example, cropping an image to use as an icon on social media is totally fine; tracing or painting over my work is not. Please reach out for clarification if need be.&nbsp;</span></p>
@@ -74,7 +92,7 @@
 <br />
 <p><span style="font-weight: 400;">Last Updated : January 2026</span></p>
 </td>
-<td>
+<td style="width: 299.533px;">
 <p style="text-align: center;"><strong>Step 1 : Contact</strong></p>
 <p style="text-align: center;"><span style="font-weight: 400;">The client reaches out to the artist via the above linked Google Forms. The artist reviews the information and references given and asks for more information if necessary. Communication primarily occurs through Bluesky DMs, Discord or email. </span><strong><br /></strong></p>
 <p style="text-align: center;"><strong><br /></strong><strong>Step 2 : Payment</strong></p>
@@ -97,14 +115,5 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-
-{% endblock %}
-
-    <div id="powered-by">
-        Powered by <a id="powered-by-link" href="https://www.comic-git.com">comic_git</a> v{{ version }}
-    </div>
 </div>
-</body>
-</html>
-
+<div>&nbsp;</div>
