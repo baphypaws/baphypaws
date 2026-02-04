@@ -1,4 +1,5 @@
 <html>
+<body>
 <div>
 <h1 style="text-align: center;"><span style="font-weight: 400;">🐾 BAPHYPAWS&nbsp; 🐾</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Commissions Info</span></h1>
 </div>
@@ -117,4 +118,5 @@
 </tbody>
 </table>
 </div>
+</body>
 </html>
