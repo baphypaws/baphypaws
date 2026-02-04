@@ -1,3 +1,4 @@
+<bg color="#E3DEC8">
 <h1>ART of BAPHYPAWS</h1><br>
 
 <div class="right-column-layout">
@@ -7,7 +8,6 @@
     </div>
 
     <div class="right-column">
-	<div style="background-color:#E3DEC8;">
         <h2> This Website Contains <b>ADULT</b> MATERIAL. </h2><br>
 	<h3> Be warned! </h3>
 <hr><br>
@@ -19,7 +19,7 @@
 		<li> Add a contact page </li>
 		<li> Add a commssions info/tracker page </li>
 		<li> Reverse gallery display order </li>
-		<li> Tagged posts show up as links, not thumbnails </li>
+		<li><s>Tagged posts show up as links, not thumbnails</s></li>
 	</ul>
 <br>
 <p> Find anything else that needs fixing?<br>
