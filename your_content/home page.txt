@@ -1,4 +1,4 @@
-<h1>welcome to BAPHYPAWS BAPHYPAD 🎉🎊🥳</h1>
+<h1>ART of BAPHYPAWS</h1><br>
 
 <div class="right-column-layout">
     <div class="left-column">
@@ -7,10 +7,18 @@
     </div>
 
     <div class="right-column">
-        <p>EYO, MA</p>
+        <h2> This Website Contains <b>ADULT</b> MATERIAL. </h2><br>
+	<h3> Be warned! </h3>
+<hr>
+<b> Known Issues / Working On : </b><br>
+	<ul>
+		<li>
+	</ul>
+<br>
+<p> Find anything else that needs fixing?<br>
+Let me know at <a href="mailto:baphypaws@gmail.com">baphypaws@gmail.com!</a></p>
 
-        <p>Workin on making this real pretty!!! thanks, love u 
-    </div>
+            </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
 
