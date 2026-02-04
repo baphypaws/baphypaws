@@ -1,6 +1,7 @@
 <h1>ART of BAPHYPAWS</h1><br>
 
 <div class="right-column-layout">
+<div style="background-color:#E3DEC8;">
     <div class="left-column">
             <img src="your_content/images/logo.png">
         </a>
