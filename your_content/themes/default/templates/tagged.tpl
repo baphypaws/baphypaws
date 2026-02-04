@@ -15,11 +15,9 @@
             {%- for page in tagged_pages %}
                 <a href="{{ comic_base_dir }}/comic/{{ page["page_name"] }}/#comic-page"><img src="{{ base_dir }}/{{ page.thumbnail_path }}"></a>
 
-	</div>
-	</div>
-
             {%- endfor %}
-            
+            </div>
+	</div>
         </div>
     </div>
 {% endblock %}
