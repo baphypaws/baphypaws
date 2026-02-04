@@ -1,24 +1,29 @@
 <h1>ART of BAPHYPAWS</h1><br>
 
 <div class="right-column-layout">
-<div style="background-color:#E3DEC8;">
     <div class="left-column">
             <img src="your_content/images/logo.png">
         </a>
     </div>
 
     <div class="right-column">
+	<div style="background-color:#E3DEC8;">
         <h2> This Website Contains <b>ADULT</b> MATERIAL. </h2><br>
 	<h3> Be warned! </h3>
 <hr>
 <b> Known Issues / Working On : </b><br>
 	<ul>
-		<li>
+		<li> Tags page needs links </li>
+		<li> TOS page isn't loading correctly </li>
+		<li> Reimplement Monthly Comms tracker page </li>
+		<li> Add a contact page </li>
+		<li> Add a commssions info/tracker page </li>
+		<li> Reverse gallery display order </li>
 	</ul>
 <br>
 <p> Find anything else that needs fixing?<br>
 Let me know at <a href="mailto:baphypaws@gmail.com">baphypaws@gmail.com!</a></p>
-
+</div>
             </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
