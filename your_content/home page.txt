@@ -13,11 +13,11 @@
 <hr><br>
 <b> Known Issues / Working On : </b><br>
 	<ul>
-		<li> TOS page isn't loading correctly </li>
 		<li> Reimplement Monthly Comms tracker page </li>
-		<li> Add a contact page </li>
 		<li> Add a commssions info/tracker page </li>
-		<li> Reverse gallery display order </li>
+		<li><s>Add a contact page</s></li>
+		<li><s>Reverse gallery display order</s></li>
+		<li><s>TOS page isn't loading correctly</s></li>
 		<li><s>Tagged posts show up as links, not thumbnails</s></li>
 		<li><s>Tags page needs links</s></li>
 	</ul>
