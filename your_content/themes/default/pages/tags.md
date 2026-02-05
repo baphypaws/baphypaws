@@ -69,7 +69,7 @@
 
 <td style="width: 355px; height: 18px; background-color: #e3dec8; text-align: center;">
 
-<p><strong>BAPHYPAW'S Characters C:\&nbsp;</strong></p>
+<p><strong>BAPHYPAW'S Characters</strong></p>
 
 </td>
 
